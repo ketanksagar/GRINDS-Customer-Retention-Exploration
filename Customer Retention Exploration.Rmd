@@ -1,6 +1,6 @@
 ---
 title: "Grinds Exploration on Client Retention"
-author: "Alex Heck, Tom Zwiller, Giulia Neves Monteiro, Aziz Al Mezraani, Madison Bradley"
+author: "Ketan Kshirsagar"
 date: "`r Sys.Date()`"
 output: html_document
 ---
